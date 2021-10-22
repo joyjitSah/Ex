@@ -1,0 +1,69 @@
+.nav-style{
+    margin-left: 20%;
+}
+.nav-text-color{
+    color: #000;
+    text-transform: uppercase;
+}
+.nav-text-color:hover{
+    color: #131313;
+    transition: .6s;
+}
+/* .slide-margin{
+    margin: 30px;
+} */
+.slider-style{
+    width: 100%;
+    height: 600px;
+}
+.about-margin{
+    margin-top: 30px;
+}
+.About-title{
+    text-align: center;
+}
+.about-img{
+    width: 400px;
+    height: auto;
+}
+.about-button{
+    text-align: center;
+    margin-left: 40%;
+    margin-top: 50px;
+    background-color: red;
+    border: 2px solid red;
+    padding: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 6px;
+    color: #fff;
+}
+.Experience{
+    margin-top: 30px;
+    text-align: center;
+    color: rgba(255, 238, 0, 0.801);
+}
+.team{
+    margin-top: 30px;
+}
+.Team{
+    text-align: center;
+    color: rgba(255, 238, 0, 0.801);
+}
+.image-hite{
+    width: 300px;
+}
+.Contact{
+    margin-top: 80px;
+    text-align: center;
+    color: rgba(255, 238, 0, 0.801);
+}
+footer{
+    margin-top: 40px;
+    background-color: #000;
+    height: 50px;
+}
+.footer-title{
+    text-align: center;
+    color: #fff;
+}
